@@ -10,6 +10,10 @@ public class NumberWizard : MonoBehaviour {
 
 		int max = 1000;
 		int min = 1;
+
+		print("The highest number you can pick is "+max);
+		print("The lowest number you can pick is "+min);
+
 	}
 	
 	// Update is called once per frame
